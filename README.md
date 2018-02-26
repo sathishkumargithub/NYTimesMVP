@@ -1,4 +1,4 @@
-# NYTimes Application using MVVM Design pattern 
+# NYTimes Application using MVP Design pattern 
 
 ## Introduction
 
