@@ -6,7 +6,7 @@ NYtimes application shows a list of NYTimes most viewed articles. Tapping on the
 article.  
 * A main activity that handles navigation between articlelistfragment and articledetailfragment.
 * A articlelistfragment to display the list of articles.
-* A articledetailfragment to display a article review.
+* A articledetailfragment to display article details.
 
 ## Model-View-Presenter (MVP)
 ### Presenter
